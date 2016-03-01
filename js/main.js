@@ -1,5 +1,33 @@
 // Create your variable here, name it `insects`
-
+var insects = [
+{
+  name: 'Ant Nest Beetle',
+  img: 'ant-nest-beetle.jpg',
+  family: 'Carabidae',
+  food: 'Insects',
+  size: [6, 20]
+},
+{
+  name: 'Dung Beetle',
+  img: 'dung-beetle.jpg',
+  family: 'Scarabidae',
+  food: 'Dung',
+  size: [20, 30]
+},
+{
+  name: 'Stag Beetle',
+  img: 'stag-beetle.jpg',
+  family: 'Lucanidae',
+  food: 'Plants',
+  size: [5, 120]
+},
+{
+  name: 'Tortoise Beetle',
+  img: 'tortoise-beetle.jpg',
+  family: 'Cassidinae',
+  food: 'Plants',
+  size: [1, 18]
+}];
 
 // ##########################################################
 // START DO NOT CHANGE ZONE
